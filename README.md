@@ -1,0 +1,4 @@
+Playfair
+========
+
+Implemented Playfair cipher.
